@@ -1,6 +1,6 @@
 # sponsors-readme-workflow
 
-workflow to add sponsors inside repositories readme
+workflow that adds sponsors to the readme on push event.
 
 # Sponsors
 
